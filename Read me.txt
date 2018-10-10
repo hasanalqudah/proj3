@@ -1,0 +1,33 @@
+Name: Hasasn Al-Qudah
+Email: Hmaq8810@nmsu.edu
+Course: C S 519
+Project: project3
+Implement Single-layer Linear Neural Networks using Python. Experiment with performance as a function of number of iterations.
+
+************ Files *********
+
+persptron.py
+proj3.py
+
+
+README
+Main.py
+
+************ The main module *****
+
+proj3.py, contain the modules for 5 classifiers algorithms.
+To run the program it should run form proj3.py
+
+
+************ Instructions ***
+Run main
+The program will ask you to choose 2 datasets to classify
+Key in 1 for Digit dataset
+Key in 2 for Activity Recognition
+Key 3 to enter the path or URL of data file
+
+Note: you can use option three to run activity Recognition by specifying the data path in your local machine
+
+************ References ************
+1.	https://archive.ics.uci.edu/ml/machine-learning-databases
+2.	Book(python machine learning second edition)
